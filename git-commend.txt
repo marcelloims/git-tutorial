@@ -1,0 +1,12 @@
+*** Git-Commend ***
+============================
+-	git init 	        : digunakan untuk mengintergrasikan git pada file project yang kita buat.
+-	git clone	        : digunakan untuk menduplikasi project kita yang sudah di "push" pada git
+			                / membuat cloning pada local komputer kita.
+
+- git add file_name : digunakan untuk menambahkan file apa git repository
+- git add .         : digunakan untuk menambahkan semua file sekaligus
+- git add -A        : ===||===
+- git add -all      : ===||===
+
+- git commnit -m "body_message" : digunakan untuk meng-commit dan menyimpan semua perubahan yang terjadi.
