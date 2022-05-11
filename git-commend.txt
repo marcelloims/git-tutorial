@@ -25,4 +25,5 @@
 - git branch "nama_cabang"      : digunakan untuk membuat cabang dimana cabang-cabang itu di pakek oleh programmer yang untuk saling berkordinasi.
                                   Pada dasarnya branch pertaman adalah Master.
 - git checkout "nama_cabang"    : digunakan untuk memakai atau pindah ke branch yang mau dipakai
+- git branch -D "nama_cabang"   : digunakan untuk menghapus branch, jika ingin menghapus lebih dari satu branch "-D nama_cabang_1 nama_cabang2"
 - git merge         : digunakan untuk menyatukan branch pada Master.
