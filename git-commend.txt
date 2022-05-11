@@ -16,3 +16,6 @@
 
 
 - git log           : digunakan untuk melihat catatan commit yang sudah dilakukan (untuk exit dari "git-log" tekan "q")
+- git diff          : digunakan untuk melihat apa yang diubah pada file tertentu secara spesifik
+
+- .gitignore        : adalah sebuah file untuk meng-ignore file-file apa saja yang di mau di pantau oleh git itu sendiri..

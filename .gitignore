@@ -1,0 +1,3 @@
+app.log
+build/
+# "*.log" digunakan untuk meng-ignore semua file yang ".log"
