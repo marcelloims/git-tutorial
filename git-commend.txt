@@ -19,3 +19,10 @@
 - git diff          : digunakan untuk melihat apa yang diubah pada file tertentu secara spesifik
 
 - .gitignore        : adalah sebuah file untuk meng-ignore file-file apa saja yang di mau di pantau oleh git itu sendiri..
+==============================
+
+- git branch        : digunakan untuk melihat "branch" apa saja yang ada.
+- git branch "nama_cabang"      : digunakan untuk membuat cabang dimana cabang-cabang itu di pakek oleh programmer yang untuk saling berkordinasi.
+                                  Pada dasarnya branch pertaman adalah Master.
+- git checkout "nama_cabang"    : digunakan untuk memakai atau pindah ke branch yang mau dipakai
+- git merge         : digunakan untuk menyatukan branch pada Master.
