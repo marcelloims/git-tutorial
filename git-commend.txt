@@ -1,5 +1,5 @@
 *** Git-Commend ***
-============================
+==============================
 -	git init 	        : digunakan untuk mengintergrasikan git pada file project yang kita buat.
 -	git clone	        : digunakan untuk menduplikasi project kita yang sudah di "push" pada git
 			                / membuat cloning pada local komputer kita.
@@ -27,3 +27,8 @@
 - git checkout "nama_cabang"    : digunakan untuk memakai atau pindah ke branch yang mau dipakai
 - git branch -D "nama_cabang"   : digunakan untuk menghapus branch, jika ingin menghapus lebih dari satu branch "-D nama_cabang_1 nama_cabang2"
 - git merge         : digunakan untuk menyatukan branch pada Master.
+==============================
+
+- git remote add	: digunakan untuk menghubungkan git remote dengan git local kita
+- git push		: digunakan untuk meng-upload project dari git local --> git romote
+- git pull		: digunakan untuk men-download project dari git remote --> git local
